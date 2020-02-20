@@ -1,0 +1,37 @@
+C:\Users\NXsi_qew2\source\repos\Logbook\Logbook\bin\Debug\Logbook.exe.config
+C:\Users\NXsi_qew2\source\repos\Logbook\Logbook\bin\Debug\Logbook.exe
+C:\Users\NXsi_qew2\source\repos\Logbook\Logbook\bin\Debug\Logbook.pdb
+C:\Users\NXsi_qew2\source\repos\Logbook\Logbook\obj\Debug\Logbook.csprojAssemblyReference.cache
+C:\Users\NXsi_qew2\source\repos\Logbook\Logbook\obj\Debug\Logbook.logbook.resources
+C:\Users\NXsi_qew2\source\repos\Logbook\Logbook\obj\Debug\Logbook.Model.StudentPanel.resources
+C:\Users\NXsi_qew2\source\repos\Logbook\Logbook\obj\Debug\Logbook.Properties.Resources.resources
+C:\Users\NXsi_qew2\source\repos\Logbook\Logbook\obj\Debug\Logbook.csproj.GenerateResource.cache
+C:\Users\NXsi_qew2\source\repos\Logbook\Logbook\obj\Debug\Logbook.exe
+C:\Users\NXsi_qew2\source\repos\Logbook\Logbook\obj\Debug\Logbook.pdb
+C:\Users\NXsi_qew2\source\repos\Logbook\Logbook\obj\Debug\Logbook.Model.InfoPanel.resources
+C:\Users\NXsi_qew2\Desktop\Logbook\Logbook\bin\Debug\Logbook.exe.config
+C:\Users\NXsi_qew2\Desktop\Logbook\Logbook\bin\Debug\Logbook.exe
+C:\Users\NXsi_qew2\Desktop\Logbook\Logbook\bin\Debug\Logbook.pdb
+C:\Users\NXsi_qew2\Desktop\Logbook\Logbook\bin\Debug\MaterialSkin.dll
+C:\Users\NXsi_qew2\Desktop\Logbook\Logbook\obj\Debug\Logbook.csprojAssemblyReference.cache
+C:\Users\NXsi_qew2\Desktop\Logbook\Logbook\obj\Debug\Logbook.logbook.resources
+C:\Users\NXsi_qew2\Desktop\Logbook\Logbook\obj\Debug\Logbook.Model.InfoPanel.resources
+C:\Users\NXsi_qew2\Desktop\Logbook\Logbook\obj\Debug\Logbook.Model.StudentPanel.resources
+C:\Users\NXsi_qew2\Desktop\Logbook\Logbook\obj\Debug\Logbook.Properties.Resources.resources
+C:\Users\NXsi_qew2\Desktop\Logbook\Logbook\obj\Debug\Logbook.csproj.GenerateResource.cache
+C:\Users\NXsi_qew2\Desktop\Logbook\Logbook\obj\Debug\Logbook.csproj.CopyComplete
+C:\Users\NXsi_qew2\Desktop\Logbook\Logbook\obj\Debug\Logbook.exe
+C:\Users\NXsi_qew2\Desktop\Logbook\Logbook\obj\Debug\Logbook.pdb
+C:\Users\lenovo 330\Desktop\Logbook\Logbook\bin\Debug\Logbook.exe.config
+C:\Users\lenovo 330\Desktop\Logbook\Logbook\bin\Debug\Logbook.exe
+C:\Users\lenovo 330\Desktop\Logbook\Logbook\bin\Debug\Logbook.pdb
+C:\Users\lenovo 330\Desktop\Logbook\Logbook\bin\Debug\MaterialSkin.dll
+C:\Users\lenovo 330\Desktop\Logbook\Logbook\obj\Debug\Logbook.csprojAssemblyReference.cache
+C:\Users\lenovo 330\Desktop\Logbook\Logbook\obj\Debug\Logbook.logbook.resources
+C:\Users\lenovo 330\Desktop\Logbook\Logbook\obj\Debug\Logbook.Model.InfoPanel.resources
+C:\Users\lenovo 330\Desktop\Logbook\Logbook\obj\Debug\Logbook.Model.StudentPanel.resources
+C:\Users\lenovo 330\Desktop\Logbook\Logbook\obj\Debug\Logbook.Properties.Resources.resources
+C:\Users\lenovo 330\Desktop\Logbook\Logbook\obj\Debug\Logbook.csproj.GenerateResource.cache
+C:\Users\lenovo 330\Desktop\Logbook\Logbook\obj\Debug\Logbook.csproj.CopyComplete
+C:\Users\lenovo 330\Desktop\Logbook\Logbook\obj\Debug\Logbook.exe
+C:\Users\lenovo 330\Desktop\Logbook\Logbook\obj\Debug\Logbook.pdb
